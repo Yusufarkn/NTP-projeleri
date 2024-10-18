@@ -1,0 +1,7 @@
+C:\Users\ysfar\source\repos\NTPDers1\NTPDers1\bin\Debug\NTPDers1.exe.config
+C:\Users\ysfar\source\repos\NTPDers1\NTPDers1\bin\Debug\NTPDers1.exe
+C:\Users\ysfar\source\repos\NTPDers1\NTPDers1\bin\Debug\NTPDers1.pdb
+C:\Users\ysfar\source\repos\NTPDers1\NTPDers1\obj\Debug\NTPDers1.csprojAssemblyReference.cache
+C:\Users\ysfar\source\repos\NTPDers1\NTPDers1\obj\Debug\NTPDers1.csproj.CoreCompileInputs.cache
+C:\Users\ysfar\source\repos\NTPDers1\NTPDers1\obj\Debug\NTPDers1.exe
+C:\Users\ysfar\source\repos\NTPDers1\NTPDers1\obj\Debug\NTPDers1.pdb
