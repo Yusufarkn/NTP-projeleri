@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35213.121
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTPDers1.2", "NTPDers1.2\NTPDers1.2.csproj", "{A6E52452-0511-49CD-AC68-067A8F52190B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6E52452-0511-49CD-AC68-067A8F52190B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E52452-0511-49CD-AC68-067A8F52190B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E52452-0511-49CD-AC68-067A8F52190B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E52452-0511-49CD-AC68-067A8F52190B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6847F3BC-E96D-4A61-81F8-1CE18F67A927}
+	EndGlobalSection
+EndGlobal
