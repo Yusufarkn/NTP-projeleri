@@ -1,0 +1,7 @@
+C:\Users\ysfar\source\repos\NTP2.0\NTP2.0\bin\Debug\NTP2.0.exe.config
+C:\Users\ysfar\source\repos\NTP2.0\NTP2.0\bin\Debug\NTP2.0.exe
+C:\Users\ysfar\source\repos\NTP2.0\NTP2.0\bin\Debug\NTP2.0.pdb
+C:\Users\ysfar\source\repos\NTP2.0\NTP2.0\obj\Debug\NTP2.0.csprojAssemblyReference.cache
+C:\Users\ysfar\source\repos\NTP2.0\NTP2.0\obj\Debug\NTP2.0.csproj.CoreCompileInputs.cache
+C:\Users\ysfar\source\repos\NTP2.0\NTP2.0\obj\Debug\NTP2.0.exe
+C:\Users\ysfar\source\repos\NTP2.0\NTP2.0\obj\Debug\NTP2.0.pdb
