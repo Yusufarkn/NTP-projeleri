@@ -1,0 +1,7 @@
+C:\Users\ysfar\source\repos\NTP4.1\NTP4.1\bin\Debug\NTP4.1.exe.config
+C:\Users\ysfar\source\repos\NTP4.1\NTP4.1\bin\Debug\NTP4.1.exe
+C:\Users\ysfar\source\repos\NTP4.1\NTP4.1\bin\Debug\NTP4.1.pdb
+C:\Users\ysfar\source\repos\NTP4.1\NTP4.1\obj\Debug\NTP4.1.csprojAssemblyReference.cache
+C:\Users\ysfar\source\repos\NTP4.1\NTP4.1\obj\Debug\NTP4.1.csproj.CoreCompileInputs.cache
+C:\Users\ysfar\source\repos\NTP4.1\NTP4.1\obj\Debug\NTP4.1.exe
+C:\Users\ysfar\source\repos\NTP4.1\NTP4.1\obj\Debug\NTP4.1.pdb
