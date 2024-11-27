@@ -1,0 +1,7 @@
+C:\Users\ysfar\source\repos\NTP6.1\NTP6.1\bin\Debug\NTP6.1.exe.config
+C:\Users\ysfar\source\repos\NTP6.1\NTP6.1\bin\Debug\NTP6.1.exe
+C:\Users\ysfar\source\repos\NTP6.1\NTP6.1\bin\Debug\NTP6.1.pdb
+C:\Users\ysfar\source\repos\NTP6.1\NTP6.1\obj\Debug\NTP6.1.csprojAssemblyReference.cache
+C:\Users\ysfar\source\repos\NTP6.1\NTP6.1\obj\Debug\NTP6.1.csproj.CoreCompileInputs.cache
+C:\Users\ysfar\source\repos\NTP6.1\NTP6.1\obj\Debug\NTP6.1.exe
+C:\Users\ysfar\source\repos\NTP6.1\NTP6.1\obj\Debug\NTP6.1.pdb
