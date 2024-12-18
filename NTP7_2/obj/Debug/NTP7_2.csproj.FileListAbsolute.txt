@@ -1,0 +1,7 @@
+C:\Users\ysfar\source\repos\NTP7_2\NTP7_2\bin\Debug\NTP7_2.exe.config
+C:\Users\ysfar\source\repos\NTP7_2\NTP7_2\bin\Debug\NTP7_2.exe
+C:\Users\ysfar\source\repos\NTP7_2\NTP7_2\bin\Debug\NTP7_2.pdb
+C:\Users\ysfar\source\repos\NTP7_2\NTP7_2\obj\Debug\NTP7_2.csprojAssemblyReference.cache
+C:\Users\ysfar\source\repos\NTP7_2\NTP7_2\obj\Debug\NTP7_2.csproj.CoreCompileInputs.cache
+C:\Users\ysfar\source\repos\NTP7_2\NTP7_2\obj\Debug\NTP7_2.exe
+C:\Users\ysfar\source\repos\NTP7_2\NTP7_2\obj\Debug\NTP7_2.pdb
