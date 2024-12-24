@@ -1,0 +1,7 @@
+C:\Users\ysfar\source\repos\NTP8.2\NTP8.2\bin\Debug\NTP8.2.exe.config
+C:\Users\ysfar\source\repos\NTP8.2\NTP8.2\bin\Debug\NTP8.2.exe
+C:\Users\ysfar\source\repos\NTP8.2\NTP8.2\bin\Debug\NTP8.2.pdb
+C:\Users\ysfar\source\repos\NTP8.2\NTP8.2\obj\Debug\NTP8.2.csprojAssemblyReference.cache
+C:\Users\ysfar\source\repos\NTP8.2\NTP8.2\obj\Debug\NTP8.2.csproj.CoreCompileInputs.cache
+C:\Users\ysfar\source\repos\NTP8.2\NTP8.2\obj\Debug\NTP8.2.exe
+C:\Users\ysfar\source\repos\NTP8.2\NTP8.2\obj\Debug\NTP8.2.pdb
