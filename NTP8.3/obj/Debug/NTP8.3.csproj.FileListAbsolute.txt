@@ -1,0 +1,6 @@
+C:\Users\ysfar\source\repos\NTP8.3\NTP8.3\obj\Debug\NTP8.3.csproj.CoreCompileInputs.cache
+C:\Users\ysfar\source\repos\NTP8.3\NTP8.3\bin\Debug\NTP8.3.exe.config
+C:\Users\ysfar\source\repos\NTP8.3\NTP8.3\bin\Debug\NTP8.3.exe
+C:\Users\ysfar\source\repos\NTP8.3\NTP8.3\bin\Debug\NTP8.3.pdb
+C:\Users\ysfar\source\repos\NTP8.3\NTP8.3\obj\Debug\NTP8.3.exe
+C:\Users\ysfar\source\repos\NTP8.3\NTP8.3\obj\Debug\NTP8.3.pdb
